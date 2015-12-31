@@ -1,4 +1,4 @@
-__author__ = 'Jimmy'
+__author__ = 'https://github.com/evandrix/'
 
 """
 Simple calendar using ttk Treeview together with calendar and datetime
